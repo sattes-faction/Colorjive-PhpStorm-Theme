@@ -23,7 +23,11 @@ Feel free to use it as base for your own themes. If you have any improvements do
 Screenshots
 -----------
 
-![PHP](screenshots/php.png?raw=true) ![JavaScript](screenshots/javascript.png?raw=true) ![CSS](screenshots/css.png?raw=true) ![HTML/Twig](screenshots/html-twig.png?raw=true) ![XML](screenshots/xml.png?raw=true)
+* ![PHP](screenshots/php.png?raw=true)
+* ![JavaScript](screenshots/javascript.png?raw=true)
+* ![CSS](screenshots/css.png?raw=true)
+* ![HTML/Twig](screenshots/html-twig.png?raw=true)
+* ![XML](screenshots/xml.png?raw=true)
 
 Installation
 ------------
