@@ -20,6 +20,11 @@ I used DejaVu Sans Mono as main font (see the example screenshots), which is [fr
 
 Feel free to use it as base for your own themes. If you have any improvements don't hesitate to fork and or file an issue.
 
+Screenshots
+-----------
+
+![PHP](screenshots/php.png?raw=true) ![JavaScript](screenshots/javascript.png?raw=true) ![CSS](screenshots/css.png?raw=true) ![HTML/Twig](screenshots/html-twig.png?raw=true) ![XML](screenshots/xml.png?raw=true)
+
 Installation
 ------------
 
