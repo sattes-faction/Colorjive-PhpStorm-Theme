@@ -18,7 +18,7 @@ This theme was designed to work best with the **Darcula** PhpStorm theme.
 
 I used DejaVu Sans Mono as main font (see the example screenshots), which is [freely available for download][1].
 
-Feel free to use it as base for your own themes. If you have any improvements don't hesitate to fork and or file an issue.
+Feel free to use it as base for your own themes. If you have any improvements don't hesitate to fork and/or file an issue.
 
 Screenshots
 -----------
@@ -34,8 +34,8 @@ Installation
 
 **Linux**: copy `Colorjive.icls` to `~/.WebIde60/config/colors/`
 
-*Notice: The `WebIde60` may be different depending on your PhpStorm version*
+*Notice: The `WebIde60` part may be different depending on your PhpStorm version*
 
-After installation restart your IDE and go to *Settings > Editor > Colors & Fonts* and select the **Colorjive** color sheme.
+After installation restart your IDE and go to *Settings > Editor > Colors & Fonts* and select the **Colorjive** color scheme.
 
 [1]: http://dejavu-fonts.org/wiki/Download
