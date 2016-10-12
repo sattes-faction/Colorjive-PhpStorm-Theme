@@ -28,13 +28,13 @@ Screenshots
 Installation
 ------------
 
-**Windows**: copy `Colorjive.icls` to `C:/Users/USERNAME/.WebIde60/config/colors/`
+**Windows**: copy `Colorjive.icls` to `C:/Users/USERNAME/.PhpStorm2016.2/config/colors/`
 
-**MacOSX**: copy `Colorjive.icls` to `~/Library/Preferences/WebIde60/colors/`
+**MacOSX**: copy `Colorjive.icls` to `~/Library/Preferences/PhpStorm2016.2/colors/`
 
-**Linux**: copy `Colorjive.icls` to `~/.WebIde60/config/colors/`
+**Linux**: copy `Colorjive.icls` to `~/.PhpStorm2016.2/config/colors/`
 
-*Notice: The `WebIde60` part may be different depending on your PhpStorm version*
+*Notice: The `PhpStorm2016.2` part may be different depending on your PhpStorm version*
 
 After installation restart your IDE and go to *Settings > Editor > Colors & Fonts* and select the **Colorjive** color scheme.
 
